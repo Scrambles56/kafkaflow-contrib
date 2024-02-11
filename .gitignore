@@ -54,3 +54,5 @@ target
 docs/schema.md
 
 **/appsettings.Secrets.json
+
+packages/

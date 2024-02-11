@@ -35,10 +35,10 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\src\KafkaFlow.Contrib.Outbox.Postgres\KafkaFlow.Contrib.Outbox.Postgres.csproj" />
-      <ProjectReference Include="..\..\src\KafkaFlow.Contrib.Outbox\KafkaFlow.Contrib.Outbox.csproj" />
-      <ProjectReference Include="..\..\src\KafkaFlow.Contrib.ProcessManagers.Postgres\KafkaFlow.Contrib.ProcessManagers.Postgres.csproj" />
-      <ProjectReference Include="..\..\src\KafkaFlow.Contrib.ProcessManagers\KafkaFlow.Contrib.ProcessManagers.csproj" />
+      <ProjectReference Include="..\..\src\Scrambles.KafkaFlow.Contrib.Outbox.Postgres\Scrambles.KafkaFlow.Contrib.Outbox.Postgres.csproj" />
+      <ProjectReference Include="..\..\src\Scrambles.KafkaFlow.Contrib.Outbox\Scrambles.KafkaFlow.Contrib.Outbox.csproj" />
+      <ProjectReference Include="..\..\src\Scrambles.KafkaFlow.Contrib.ProcessManagers.Postgres\Scrambles.KafkaFlow.Contrib.ProcessManagers.Postgres.csproj" />
+      <ProjectReference Include="..\..\src\Scrambles.KafkaFlow.Contrib.ProcessManagers\Scrambles.KafkaFlow.Contrib.ProcessManagers.csproj" />
     </ItemGroup>
 
     <ItemGroup>

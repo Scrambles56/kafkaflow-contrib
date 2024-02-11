@@ -4,13 +4,13 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RootNamespace>KafkaFlow.Outbox.Postgres</RootNamespace>
+        <RootNamespace>KafkaFlow.Contrib.ProcessManagers.Postgres</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\KafkaFlow.Contrib.Outbox\KafkaFlow.Contrib.Outbox.csproj" />
+      <ProjectReference Include="..\Scrambles.KafkaFlow.Contrib.ProcessManagers\Scrambles.KafkaFlow.Contrib.ProcessManagers.csproj" />
     </ItemGroup>
-
+  
     <ItemGroup>
       <PackageReference Include="Dapper" Version="2.0.138" />
       <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="7.0.0" />
